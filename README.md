@@ -7,4 +7,4 @@ This code was created using Django framework and machine learning modules in pyt
 
 ![image](https://github.com/user-attachments/assets/d37302e6-d5bb-4014-a60f-02b0f5f52aea)
 
-
+In order to use, you must download the stocks folder and install the requirements. After everything done, just run on your folder - *python manage.py runserver* 
